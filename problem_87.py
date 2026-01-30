@@ -11,3 +11,4 @@ def pascals_triangle(n):
     return triangle
 
 print(f"Pascal's triangle (5 rows): {pascals_triangle(5)}")
+
