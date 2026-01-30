@@ -1,3 +1,4 @@
+
 # Problem 43: Calculate simple interest
 # Find and fix the error
 
