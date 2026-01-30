@@ -3,7 +3,7 @@
 
 def add_item(lst, item):
     lst = lst + [item]
-    return lst
+  
 
 my_list = [1, 2, 3]
 add_item(my_list, 4)
