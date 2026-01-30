@@ -7,3 +7,4 @@ for num in numbers:
     if num < minimum:
         minimum = num
 print(f"Minimum: {minimum}")
+
