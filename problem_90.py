@@ -12,3 +12,4 @@ def find_median(lst):
 
 numbers = [1, 3, 5, 7, 9]
 print(f"Median: {find_median(numbers)}")
+
