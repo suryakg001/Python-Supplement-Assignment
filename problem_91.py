@@ -13,3 +13,4 @@ def selection_sort(arr):
 
 numbers = [64, 25, 12, 22, 11]
 print(f"Sorted: {selection_sort(numbers)}")
+
