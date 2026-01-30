@@ -14,3 +14,4 @@ def find_primes(n):
     return primes
 
 print(f"Primes up to 20: {find_primes(20)}")
+
